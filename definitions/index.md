@@ -1,3 +1,8 @@
+---
+layout: page
+title: Common definitions
+---
+
 # Definitions
 
 ## Accessory
